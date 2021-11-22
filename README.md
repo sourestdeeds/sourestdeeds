@@ -5,7 +5,7 @@
 - 📫 Check out my [Portfolio](https://github.com/sourestdeeds/dataSciencePortfolio) - A sneak peak of **[`firefly`](https://github.com/sourestdeeds/firefly)** is below!
 
 <p align="center">
-  <img src="https://github.com/sourestdeeds/firefly/blob/main/firefly/data/WASP-100%20b%20density.png">
+  <img src="https://raw.githubusercontent.com/sourestdeeds/firefly/main/firefly/data/filter_0.png?token=ACSJ3D7C7KDFPAFUZD7RNULAK7E6A">
 </p>
 <!---
 sourestdeeds/sourestdeeds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
