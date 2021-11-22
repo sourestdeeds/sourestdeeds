@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sourestdeeds
 - 👀 I’m interested in exoplanets/ML/AI and a keen hiker.
-- 🌱 I’m currently learning Bayesian ML
+- 🌱 I’m currently learning Machine Learning Explainability, SHAP values etc.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Check out my [Portfolio](https://github.com/sourestdeeds/dataSciencePortfolio)
 
