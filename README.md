@@ -2,7 +2,7 @@
 - 👀 I’m interested in exoplanets/ML/AI and a keen hiker.
 - 🌱 I’m currently learning Bayesian ML
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
+- 📫 Check out my [Portfolio](https://github.com/sourestdeeds/dataSciencePortfolio)
 
 <!---
 sourestdeeds/sourestdeeds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
