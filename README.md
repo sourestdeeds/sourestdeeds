@@ -12,7 +12,7 @@ sourestdeeds/sourestdeeds is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# Blog posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Simulation of the VLA Radio Interferometer](https://sourestdeeds.github.io/radiointerferometersimulation/)
 - [Plotting Library Catalog Subjects](https://sourestdeeds.github.io/plottinglibrarycatalogsubjects/)
