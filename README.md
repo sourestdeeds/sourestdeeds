@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - [Simulation of the VLA Radio Interferometer](https://sourestdeeds.github.io/radiointerferometersimulation/)
 - [Plotting Library Catalog Subjects](https://sourestdeeds.github.io/plottinglibrarycatalogsubjects/)
 - [Sentiment Analysis of Reviews](https://sourestdeeds.github.io/sentimentanalysisofreviews/)
+- [Discover Pi Mensae!](https://sourestdeeds.github.io/discoverpimensae/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
