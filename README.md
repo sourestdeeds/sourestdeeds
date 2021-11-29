@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Radio Interferometer Simulation](https://sourestdeeds.github.io/radiointerferometersimulation/)
-- [Plotting Library Catalog Subjects](https://sourestdeeds.github.io/plottinglibrarycatalogsubjects/)
-- [Sentiment Analysis of Reviews](https://sourestdeeds.github.io/sentimentanalysisofreviews/)
-- [Project Serenity](https://sourestdeeds.github.io/astrophysics/2021/11/22/project-serenity.html)
+- [Radio Interferometer Simulation](https://sourestdeeds.github.io/radio-interferometer-simulation/)
+- [Plotting Library Catalog Subjects](https://sourestdeeds.github.io/library-catalog-subject/)
+- [Sentiment Analysis of Reviews](https://sourestdeeds.github.io/sentiment-analysis-of-reviews/)
+- [Project Serenity](https://sourestdeeds.github.io/project-serenity/)
 - [Discover Pi Mensae!](https://sourestdeeds.github.io/discoverpimensae/)
 <!-- BLOG-POST-LIST:END -->
 
