@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - [Radio Interferometer Simulation](https://sourestdeeds.github.io/radiointerferometersimulation/)
 - [Plotting Library Catalog Subjects](https://sourestdeeds.github.io/plottinglibrarycatalogsubjects/)
 - [Sentiment Analysis of Reviews](https://sourestdeeds.github.io/sentimentanalysisofreviews/)
+- [Project Serenity](https://sourestdeeds.github.io/astrophysics/2021/11/22/project-serenity.html)
 - [Discover Pi Mensae!](https://sourestdeeds.github.io/discoverpimensae/)
 <!-- BLOG-POST-LIST:END -->
 
