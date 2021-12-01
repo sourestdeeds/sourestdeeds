@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 - [Radio Interferometer Simulation](https://sourestdeeds.github.io/radio-interferometer-simulation/)
 - [Plotting Library Catalog Subjects](https://sourestdeeds.github.io/library-catalog-subject/)
 - [Sentiment Analysis of Reviews](https://sourestdeeds.github.io/sentiment-analysis-of-reviews/)
+- [Project Serenity](https://sourestdeeds.github.io/project-serenity/)
 - [Discover Pi Mensae!](https://sourestdeeds.github.io/exoplanets-recover-first-tess-candidate/)
-- [Introduction to Exoplanets](https://sourestdeeds.github.io/exoplanet-intro/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
