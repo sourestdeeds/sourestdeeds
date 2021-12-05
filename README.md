@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 - [Principal Component Analysis](https://sourestdeeds.github.io/principal-component-analysis/)
 - [Clustering with K-Means](https://sourestdeeds.github.io/clustering-with-k-means/)
 - [Feature Engineering](https://sourestdeeds.github.io/feature-analysis/)
+- [Belief Propogation](https://sourestdeeds.github.io/belief-propogation/)
 - [Mutual Information](https://sourestdeeds.github.io/mutual-information/)
-- [Radio Interferometer Simulation](https://sourestdeeds.github.io/radio-interferometer-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
