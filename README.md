@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Target Encoding](https://sourestdeeds.github.io/target-encoding/)
 - [Principal Component Analysis](https://sourestdeeds.github.io/principal-component-analysis/)
 - [Clustering with K-Means](https://sourestdeeds.github.io/clustering-with-k-means/)
 - [Feature Engineering](https://sourestdeeds.github.io/feature-analysis/)
 - [Belief Propogation](https://sourestdeeds.github.io/belief-propogation/)
-- [Mutual Information](https://sourestdeeds.github.io/mutual-information/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
