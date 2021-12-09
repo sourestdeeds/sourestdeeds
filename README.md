@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aggregate SHAP Values](https://sourestdeeds.github.io/shap-values-advanced/)
 - [SHAP Values](https://sourestdeeds.github.io/shap-values/)
 - [Permutation Importance](https://sourestdeeds.github.io/permutation-importance/)
 - [Model Insights](https://sourestdeeds.github.io/model-insights/)
 - [Target Encoding](https://sourestdeeds.github.io/target-encoding/)
-- [Principal Component Analysis](https://sourestdeeds.github.io/principal-component-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
