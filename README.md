@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Aggregate SHAP Values](https://sourestdeeds.github.io/shap-values-advanced/)
-- [SHAP Values](https://sourestdeeds.github.io/shap-values/)
-- [Permutation Importance](https://sourestdeeds.github.io/permutation-importance/)
-- [Model Insights](https://sourestdeeds.github.io/model-insights/)
-- [Target Encoding](https://sourestdeeds.github.io/target-encoding/)
+- [Binary Classification](https://sourestdeeds.github.io/binary-classification/)
+- [Dropout and Batch Normalization](https://sourestdeeds.github.io/dropout-and-batch-normalization/)
+- [Overfitting and Underfitting](https://sourestdeeds.github.io/overfitting-and-underfitting/)
+- [Stochastic Gradient Descent](https://sourestdeeds.github.io/stochastic-gradient-descent/)
+- [Deep Neural Networks](https://sourestdeeds.github.io/deep-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
