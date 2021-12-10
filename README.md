@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Convolutional Classifier](https://sourestdeeds.github.io/convolutional-classifier/)
 - [Binary Classification](https://sourestdeeds.github.io/binary-classification/)
 - [Dropout and Batch Normalization](https://sourestdeeds.github.io/dropout-and-batch-normalization/)
 - [Overfitting and Underfitting](https://sourestdeeds.github.io/overfitting-and-underfitting/)
 - [Stochastic Gradient Descent](https://sourestdeeds.github.io/stochastic-gradient-descent/)
-- [Deep Neural Networks](https://sourestdeeds.github.io/deep-neural-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
