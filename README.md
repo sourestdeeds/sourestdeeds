@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful Algorithms](https://sourestdeeds.github.io/useful-algorithms/)
 - [The Sliding Window](https://sourestdeeds.github.io/sliding-window/)
 - [Maximum Pooling](https://sourestdeeds.github.io/maximum-pooling/)
 - [Convolution and ReLU](https://sourestdeeds.github.io/convolution-and-relu/)
 - [The Convolutional Classifier](https://sourestdeeds.github.io/convolutional-classifier/)
-- [Binary Classification](https://sourestdeeds.github.io/binary-classification/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
