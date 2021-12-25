@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your First Map](https://sourestdeeds.github.io/your-first-map/)
 - [Data Augmentation](https://sourestdeeds.github.io/data-augmentation/)
 - [Custom Convnets](https://sourestdeeds.github.io/custom-convnets/)
 - [Useful Algorithms](https://sourestdeeds.github.io/useful-algorithms/)
 - [The Sliding Window](https://sourestdeeds.github.io/sliding-window/)
-- [Maximum Pooling](https://sourestdeeds.github.io/maximum-pooling/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
