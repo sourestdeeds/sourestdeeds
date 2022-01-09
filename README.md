@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Setup](https://sourestdeeds.github.io/seting-python-alias/)
-- [Coordinate Reference Systems](https://sourestdeeds.github.io/coordinate-reference-systems/)
-- [Your First Map](https://sourestdeeds.github.io/your-first-map/)
-- [Data Augmentation](https://sourestdeeds.github.io/data-augmentation/)
-- [Custom Convnets](https://sourestdeeds.github.io/custom-convnets/)
+- [Python Setup](https://sourestdeeds.github.io/blog/seting-python-alias/)
+- [Coordinate Reference Systems](https://sourestdeeds.github.io/blog/coordinate-reference-systems/)
+- [Your First Map](https://sourestdeeds.github.io/blog/your-first-map/)
+- [Data Augmentation](https://sourestdeeds.github.io/blog/data-augmentation/)
+- [Custom Convnets](https://sourestdeeds.github.io/blog/custom-convnets/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
