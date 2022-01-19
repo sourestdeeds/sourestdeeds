@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Human-Centered Design for AI](https://sourestdeeds.github.io/blog/human-centered-design-for-ai/)
 - [Proximity Analysis](https://sourestdeeds.github.io/blog/proximity-analysis/)
 - [Interactive Maps](https://sourestdeeds.github.io/blog/interactive-maps/)
 - [Python Setup](https://sourestdeeds.github.io/blog/seting-python-alias/)
 - [Coordinate Reference Systems](https://sourestdeeds.github.io/blog/coordinate-reference-systems/)
-- [Your First Map](https://sourestdeeds.github.io/blog/your-first-map/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
