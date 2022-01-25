@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Model Cards](https://sourestdeeds.github.io/blog/model-cards/)
 - [AI Fairness](https://sourestdeeds.github.io/blog/ai-fairness/)
 - [Identifying Bias in AI](https://sourestdeeds.github.io/blog/identifying-bias-in-ai/)
 - [Human-Centered Design for AI](https://sourestdeeds.github.io/blog/human-centered-design-for-ai/)
 - [Proximity Analysis](https://sourestdeeds.github.io/blog/proximity-analysis/)
-- [Interactive Maps](https://sourestdeeds.github.io/blog/interactive-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
