@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Functions](https://sourestdeeds.github.io/blog/functions/)
 - [Nobel Prize Winners](https://sourestdeeds.github.io/blog/nobel-prize-winners/)
 - [Google Play Store Reviews](https://sourestdeeds.github.io/blog/google-play-store-reviews/)
 - [Model Cards](https://sourestdeeds.github.io/blog/model-cards/)
 - [AI Fairness](https://sourestdeeds.github.io/blog/ai-fairness/)
-- [Identifying Bias in AI](https://sourestdeeds.github.io/blog/identifying-bias-in-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
