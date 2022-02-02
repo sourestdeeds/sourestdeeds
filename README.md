@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Play Store Apps and Reviews](https://sourestdeeds.github.io/blog/google-play-store-apps-and-reviews/)
+- [Google Play Store Reviews](https://sourestdeeds.github.io/blog/google-play-store-reviews/)
 - [Model Cards](https://sourestdeeds.github.io/blog/model-cards/)
 - [AI Fairness](https://sourestdeeds.github.io/blog/ai-fairness/)
 - [Identifying Bias in AI](https://sourestdeeds.github.io/blog/identifying-bias-in-ai/)
