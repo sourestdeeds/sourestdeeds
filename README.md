@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Clustering](https://sourestdeeds.github.io/blog/clustering/)
+- [Supervised Learning](https://sourestdeeds.github.io/blog/supervised-learning/)
 - [DataCamp Notes](https://sourestdeeds.github.io/blog/datacamp-notes/)
 - [Nobel Prize Winners](https://sourestdeeds.github.io/blog/nobel-prize-winners/)
 - [Google Play Store Reviews](https://sourestdeeds.github.io/blog/google-play-store-reviews/)
-- [Model Cards](https://sourestdeeds.github.io/blog/model-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
